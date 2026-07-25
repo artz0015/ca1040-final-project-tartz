@@ -1,1 +1,76 @@
-# ca1040-final-project-tartz
+# Family Paws — Dog Daycare & Boarding Website
+ 
+A front-end website for **Family Paws**, a fictional dog daycare and boarding
+business, built for CA 1040: Website Development.
+ 
+> This is a class project. Family Paws is not a real business, and the contact
+> form does not send real messages.
+ 
+## Live Demo
+ 
+https://artz0015.github.io/ca1040-final-project/
+ 
+## Pages
+ 
+| Page | File | Description |
+|---|---|---|
+| Home | `index.html` | Hero section, service overview cards, and a "why choose us" list |
+| Services | `services.html` | Pricing table and an expandable FAQ section |
+| Gallery | `gallery.html` | JavaScript image slideshow with Previous/Next controls |
+| Contact | `contact.html` | Contact form with name, email, service interest, and message |
+ 
+## Features
+ 
+- Responsive layout (desktop, tablet, and mobile) using CSS Flexbox and a media query
+- Collapsible mobile navigation menu
+- Expandable/collapsible FAQ section
+- JavaScript-driven photo slideshow
+- Contact form with client-side submit handling and a confirmation message
+- Hover effects on buttons and navigation links
+- Accessible markup: descriptive alt text, associated form labels, and a logical heading structure
+## Tech Stack
+ 
+- **HTML5** — semantic page structure across four pages
+- **CSS3** — Flexbox layout, media queries, hover states, warm neutral color palette
+- **JavaScript (vanilla)** — DOM manipulation and event handling for the nav menu, FAQ, slideshow, and contact form
+No frameworks, build tools, or backend are used — this is a static, front-end-only site.
+ 
+## File Structure
+ 
+```
+family-paws/
+├── index.html
+├── services.html
+├── gallery.html
+├── contact.html
+├── style.css
+├── script.js
+└── README.md
+```
+ 
+## Running Locally
+ 
+No build step is required. Either:
+ 
+1. Open `index.html` directly in a browser, or
+2. Serve the folder with a simple local server, e.g.:
+```
+   npx serve .
+```
+   then visit the printed local URL.
+ 
+## Images
+ 
+Photos used on the Gallery page are royalty-free stock images from
+[Unsplash](https://unsplash.com), used in place of real photography since
+Family Paws is a fictional business.
+ 
+## Project Documentation
+ 
+See `Family_Paws_Documentation.pdf` for the full project write-up, including
+target audience, core features by technology, design/UX decisions, challenges
+and solutions, and lessons learned.
+ 
+## Author
+ 
+Tanya Artz — CA 1040 Website Development, July 2026
