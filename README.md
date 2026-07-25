@@ -50,14 +50,9 @@ family-paws/
  
 ## Running Locally
  
-No build step is required. Either:
+No build step is required.
  
-1. Open `index.html` directly in a browser, or
-2. Serve the folder with a simple local server, e.g.:
-```
-   npx serve .
-```
-   then visit the printed local URL.
+1. Open `index.html` directly in a browser
  
 ## Images
  
