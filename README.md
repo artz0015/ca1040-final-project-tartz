@@ -8,12 +8,11 @@ business, built for CA 1040: Website Development.
 
 ## Project Documentation and Video Demo
  
-See `CA 1040_Website Development Project Documentation_Tartz.pdf` for the full project write-up, including
+See [CA 1040_Website Development Project Documentation_Tartz.pdf](CA%201040_Website%20Development%20Project%20Documentation_Tartz.pdf) for the full project write-up, including
 target audience, core features by technology, design/UX decisions, challenges
 and solutions, and lessons learned.
 
-Video Demo 
-
+### Video Demo 
 
 https://www.loom.com/share/fb83e4397b1e4265bc817a80e91ed305
  
