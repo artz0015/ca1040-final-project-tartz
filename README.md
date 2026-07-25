@@ -62,7 +62,7 @@ Family Paws is a fictional business.
  
 ## Project Documentation
  
-See `Family_Paws_Documentation.pdf` for the full project write-up, including
+See `CA 1040_Website Development Project Documentation_Tartz.pdf` for the full project write-up, including
 target audience, core features by technology, design/UX decisions, challenges
 and solutions, and lessons learned.
  
