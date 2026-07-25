@@ -12,7 +12,10 @@ See `CA 1040_Website Development Project Documentation_Tartz.pdf` for the full p
 target audience, core features by technology, design/UX decisions, challenges
 and solutions, and lessons learned.
 
-Video Demo https://www.loom.com/share/fb83e4397b1e4265bc817a80e91ed305
+Video Demo 
+
+
+https://www.loom.com/share/fb83e4397b1e4265bc817a80e91ed305
  
 ## Live Demo
  
