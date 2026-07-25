@@ -28,12 +28,12 @@ https://artz0015.github.io/ca1040-final-project/
 - Contact form with client-side submit handling and a confirmation message
 - Hover effects on buttons and navigation links
 - Accessible markup: descriptive alt text, associated form labels, and a logical heading structure
+  
 ## Tech Stack
  
 - **HTML5** — semantic page structure across four pages
-- **CSS3** — Flexbox layout, media queries, hover states, warm neutral color palette
-- **JavaScript (vanilla)** — DOM manipulation and event handling for the nav menu, FAQ, slideshow, and contact form
-No frameworks, build tools, or backend are used — this is a static, front-end-only site.
+- **CSS** — Flexbox layout, media queries, hover states, warm neutral color palette
+- **JavaScript** — DOM manipulation and event handling for the nav menu, FAQ, slideshow, and contact form
  
 ## File Structure
  
