@@ -8,7 +8,7 @@ business, built for CA 1040: Website Development.
  
 ## Live Demo
  
-https://artz0015.github.io/ca1040-final-project/
+https://artz0015.github.io/ca1040-final-project-tartz/
  
 ## Pages
  
