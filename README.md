@@ -5,6 +5,14 @@ business, built for CA 1040: Website Development.
  
 > This is a class project. Family Paws is not a real business, and the contact
 > form does not send real messages.
+
+## Project Documentation and Video Demo
+ 
+See `CA 1040_Website Development Project Documentation_Tartz.pdf` for the full project write-up, including
+target audience, core features by technology, design/UX decisions, challenges
+and solutions, and lessons learned.
+
+Video Demo https://www.loom.com/share/fb83e4397b1e4265bc817a80e91ed305
  
 ## Live Demo
  
@@ -59,12 +67,6 @@ No build step is required.
 Photos used on the Gallery page are royalty-free stock images from
 [Unsplash](https://unsplash.com), used in place of real photography since
 Family Paws is a fictional business.
- 
-## Project Documentation
- 
-See `CA 1040_Website Development Project Documentation_Tartz.pdf` for the full project write-up, including
-target audience, core features by technology, design/UX decisions, challenges
-and solutions, and lessons learned.
  
 ## Author
  
